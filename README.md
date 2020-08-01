@@ -2,7 +2,7 @@
 
 My name is Maicon Douglas from Brazil (🇧🇷).
 
-I've been working as a Full Stack Developer since 2019 and I'm currently Studying Systems Analysis and Development at Fatec in Taquaritinga / SP
+I've been working as a Back-End Developer since 2019 and I'm currently Studying Systems Analysis and Development at Fatec in Taquaritinga / SP
 
 In my free time, I like to play (and watch) football (⚽️), watch movies (🎞️) and Series (📺), read books (📚), Listen to music (🎵).
 
