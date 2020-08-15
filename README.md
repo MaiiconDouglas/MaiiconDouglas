@@ -24,11 +24,11 @@
 <img align="right" alt="Um gif para animar" src="https://media.giphy.com/media/wTrXRamYhQzsY/giphy.gif" height="140px">
 
 🎂 22 anos  
-👨🏻‍🎓 Técnico em Informática pela [ETEC/Taquaritinga](https://www.facebook.com/etectaquaritinga/)  
-👨🏻‍🎓 Técnico em Informática para internet pela [ETEC/Taquaritinga](https://www.facebook.com/etectaquaritinga/)  
-⏳ Studying Marketing Technician on [ETEC/Taquaritinga](https://www.facebook.com/etectaquaritinga/)  
-⏳ Studying Systems Analysis and Development on [FATEC/Taquaritinga](http://www.fatectq.edu.br/)<br />
-🍿 Sou viciado em séries <br />
+👨🏻‍🎓 Técnico em Informática pela [ETEC](https://www.facebook.com/etectaquaritinga/)  
+👨🏻‍🎓 Técnico em Informática para internet pela [ETEC](https://www.facebook.com/etectaquaritinga/)  
+⏳ Studying Marketing Technician on [ETEC/Taquaritinga](https://www.facebook.com/etectaquaritinga/) 
+⏳ Studying Systems Analysis and Development on [FATEC/Taquaritinga](http://www.fatectq.edu.br/)
+🍿 Sou viciado em séries 
 👨🏼‍💻 Sempre aprendendo alguma ferramenta nova e Técnologias 
 
 -------
@@ -36,13 +36,15 @@
 
 <br />
 <div align="center">
+
   <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">&nbsp;&nbsp;&nbsp;
   <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">&nbsp;&nbsp;&nbsp;
   <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">&nbsp;&nbsp;&nbsp;
   <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">&nbsp;&nbsp;&nbsp;
   <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png">&nbsp;&nbsp;&nbsp;
   <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">&nbsp;&nbsp;&nbsp;
-</div>
+  <img height="35" src="https://avatars0.githubusercontent.com/u/20269980?s=200&v=4">&nbsp;&nbsp;&nbsp;
+ </div>
 
 --------------------------
 **🕵🏼‍♂️ Estatísticas do meu Perfil**  
