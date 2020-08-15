@@ -4,19 +4,19 @@
   <img alt="Olá!" src="https://media.giphy.com/media/f5qNV3rAAooViWSWQ7/giphy.gif" width="45px">
   <br />
   <a  target="_blank" href="https://www.linkedin.com/in/maiconndouglas/">
-    <img alt="Linkedin" width="22px" src="https://raw.githubusercontent.com/HigorSnt/HigorSnt/1b6fab456bd620dc4ca1de9632218c54d967626d/.github/linkedin.svg" />
+    <img alt="Linkedin" width="22px" src="https://raw.githubusercontent.com/MaiiconDouglas/MaiiconDouglas/7ae52180f89e9034dd6341cd586e4a35cfe14bed/.github/linkedin.svg?token=ALMMP4QGL65DSUG27JAZ2KC7HBIVS" />
   </a>&nbsp;&nbsp;&nbsp;
   <a target="_blank" href="https://www.instagram.com/maiiconndouglasd/">
-    <img alt="Instagram" width="22px" src="https://raw.githubusercontent.com/MaiiconDouglas/MaiiconDouglas/1b6fab456bd620dc4ca1de9632218c54d967626d/.github/instagram.svg" />
+    <img alt="Instagram" width="22px" src="https://raw.githubusercontent.com/MaiiconDouglas/MaiiconDouglas/7ae52180f89e9034dd6341cd586e4a35cfe14bed/.github/instagram.svg?token=ALMMP4UNZB66OOICKAHEZTS7HBIVS" />
   </a>&nbsp;&nbsp;&nbsp;
   <a target="_blank" href="mailto:maiicondouglasd@hotmail.com">
-    <img alt="Email" width="22px" src="https://raw.githubusercontent.com/MaiiconDouglas/MaiiconDouglas/1b6fab456bd620dc4ca1de9632218c54d967626d/.github/gmail.svg" />
+    <img alt="Email" width="22px" src="https://raw.githubusercontent.com/MaiiconDouglas/MaiiconDouglas/7ae52180f89e9034dd6341cd586e4a35cfe14bed/.github/gmail.svg?token=ALMMP4WWKLZHI4NLZH6NJT27HBIVS" />
   </a>&nbsp;&nbsp;&nbsp;
   <a target="_blank" href="https://www.facebook.com/MaiiconDouglasd">
-    <img alt="Facebook" width="22px" src="https://raw.githubusercontent.com/MaiiconDouglas/MaiiconDouglas/1b6fab456bd620dc4ca1de9632218c54d967626d/.github/facebook.svg" />
+    <img alt="Facebook" width="22px" src="https://raw.githubusercontent.com/MaiiconDouglas/MaiiconDouglas/7ae52180f89e9034dd6341cd586e4a35cfe14bed/.github/facebook.svg?token=ALMMP4XZITQSRAQXPCOP6R27HBIVQ" />
   </a>&nbsp;&nbsp;&nbsp;
   <a target="_blank" href="https://twitter.com/Maiiconndouglas">
-    <img alt="Twitter" width="22px" src="https://raw.githubusercontent.com/MaiiconDouglas/MaiiconDouglas/1b6fab456bd620dc4ca1de9632218c54d967626d/.github/twitter.svg" />
+    <img alt="Twitter" width="22px" src="https://raw.githubusercontent.com/MaiiconDouglas/MaiiconDouglas/7ae52180f89e9034dd6341cd586e4a35cfe14bed/.github/twitter.svg?token=ALMMP4UEBL2SWWKVHZ2AEKS7HBIVU" />
   </a>
  </h1>
 </div>
@@ -31,7 +31,7 @@
 👨🏼‍💻 Sempre aprendendo alguma ferramenta nova e Técnologias 
 
 -------
-**🦉 Linguagens já utilizadas**  
+**🦉 Linguagens que estou aprendendo**  
 
 <br />
 <div align="center">
