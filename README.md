@@ -1,7 +1,7 @@
 <div align="center">
  <h1>
   🙂 Hello! I'm Maicon Douglas! 
-  <img alt="Olá!" src="https://media.giphy.com/media/f5qNV3rAAooViWSWQ7/giphy.gif" width="45px">
+ /* <img alt="Olá!" src="https://media.giphy.com/media/f5qNV3rAAooViWSWQ7/giphy.gif" width="45px">*/
   <br />
   <a  target="_blank" href="https://www.linkedin.com/in/maiconndouglas/">
     <img alt="Linkedin" width="22px" src="https://raw.githubusercontent.com/MaiiconDouglas/MaiiconDouglas/4f9eaa09807f6760115bb6707970f59eb6fa41c7/.github/linkedin.svg?token=ALMMP4VY5DTHVZ2BPZZZ4N27HBJ4I" />
