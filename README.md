@@ -21,7 +21,6 @@
  </h1>
 </div>
   
-<img align="right" alt="Um gif para animar" src="" height="140px">
 
 🎂 22 anos  
 👨🏻‍🎓 Técnico em Informática pela [ETEC](https://www.facebook.com/etectaquaritinga/)  
