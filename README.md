@@ -26,7 +26,7 @@
 🎂 22 anos  
 👨🏻‍🎓 Técnico em Informática pela [ETEC](https://www.facebook.com/etectaquaritinga/)  
 👨🏻‍🎓 Técnico em Informática para internet pela [ETEC](https://www.facebook.com/etectaquaritinga/)  
-⏳ Studying Systems Analysis and Development on [FATEC - Taquaritinga](http://www.fatectq.edu.br/)
+⏳ Studying Systems Analysis and Development on [FATEC - Taquaritinga](http://www.fatectq.edu.br/)<br />
 🍿 Sou viciado em séries <br />
 👨🏼‍💻 Sempre aprendendo alguma ferramenta nova e Técnologias 
 
