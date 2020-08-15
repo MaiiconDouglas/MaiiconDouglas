@@ -29,7 +29,7 @@
 ⏳ Studying Marketing Technician on [ETEC/Taquaritinga](https://www.facebook.com/etectaquaritinga/) <br />
 ⏳ Studying Systems Analysis and Development on [FATEC/Taquaritinga](http://www.fatectq.edu.br/)<br />
 🍿 Sou viciado em séries <br />
-👨🏼‍💻 Sempre aprendendo alguma ferramenta nova e Técnologias 
+👨🏼‍💻 Sempre aprendendo novas e técnologias e me atualizando sempre.
 
 -------
 **🦉 Linguagens que estou aprendendo**  
