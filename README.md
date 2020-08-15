@@ -1,22 +1,22 @@
 <div align="center">
  <h1>
-  🦡 Hello! I'm Maicon Douglas! 
+  🙂 Hello! I'm Maicon Douglas! 
   <img alt="Olá!" src="https://media.giphy.com/media/f5qNV3rAAooViWSWQ7/giphy.gif" width="45px">
   <br />
   <a  target="_blank" href="https://www.linkedin.com/in/maiconndouglas/">
-    <img alt="Linkedin" width="22px" src="https://raw.githubusercontent.com/MaiiconDouglas/MaiiconDouglas/7ae52180f89e9034dd6341cd586e4a35cfe14bed/.github/linkedin.svg?token=ALMMP4QGL65DSUG27JAZ2KC7HBIVS" />
+    <img alt="Linkedin" width="22px" src="https://raw.githubusercontent.com/MaiiconDouglas/MaiiconDouglas/4f9eaa09807f6760115bb6707970f59eb6fa41c7/.github/linkedin.svg?token=ALMMP4VY5DTHVZ2BPZZZ4N27HBJ4I" />
   </a>&nbsp;&nbsp;&nbsp;
   <a target="_blank" href="https://www.instagram.com/maiiconndouglasd/">
-    <img alt="Instagram" width="22px" src="https://raw.githubusercontent.com/MaiiconDouglas/MaiiconDouglas/7ae52180f89e9034dd6341cd586e4a35cfe14bed/.github/instagram.svg?token=ALMMP4UNZB66OOICKAHEZTS7HBIVS" />
+    <img alt="Instagram" width="22px" src="https://raw.githubusercontent.com/MaiiconDouglas/MaiiconDouglas/4f9eaa09807f6760115bb6707970f59eb6fa41c7/.github/instagram.svg?token=ALMMP4UODVJS55FKLLOV4SC7HBJ4I" />
   </a>&nbsp;&nbsp;&nbsp;
   <a target="_blank" href="mailto:maiicondouglasd@hotmail.com">
-    <img alt="Email" width="22px" src="https://raw.githubusercontent.com/MaiiconDouglas/MaiiconDouglas/7ae52180f89e9034dd6341cd586e4a35cfe14bed/.github/gmail.svg?token=ALMMP4WWKLZHI4NLZH6NJT27HBIVS" />
+    <img alt="Email" width="22px" src="https://raw.githubusercontent.com/MaiiconDouglas/MaiiconDouglas/4f9eaa09807f6760115bb6707970f59eb6fa41c7/.github/gmail.svg?token=ALMMP4SOHS4UXKMXGPR563C7HBJ4G" />
   </a>&nbsp;&nbsp;&nbsp;
   <a target="_blank" href="https://www.facebook.com/MaiiconDouglasd">
-    <img alt="Facebook" width="22px" src="https://raw.githubusercontent.com/MaiiconDouglas/MaiiconDouglas/7ae52180f89e9034dd6341cd586e4a35cfe14bed/.github/facebook.svg?token=ALMMP4XZITQSRAQXPCOP6R27HBIVQ" />
+    <img alt="Facebook" width="22px" src="https://raw.githubusercontent.com/MaiiconDouglas/MaiiconDouglas/4f9eaa09807f6760115bb6707970f59eb6fa41c7/.github/facebook.svg?token=ALMMP4TB4QLAZY6NCGFHOX27HBJ4E" />
   </a>&nbsp;&nbsp;&nbsp;
   <a target="_blank" href="https://twitter.com/Maiiconndouglas">
-    <img alt="Twitter" width="22px" src="https://raw.githubusercontent.com/MaiiconDouglas/MaiiconDouglas/7ae52180f89e9034dd6341cd586e4a35cfe14bed/.github/twitter.svg?token=ALMMP4UEBL2SWWKVHZ2AEKS7HBIVU" />
+    <img alt="Twitter" width="22px" src="https://raw.githubusercontent.com/MaiiconDouglas/MaiiconDouglas/4f9eaa09807f6760115bb6707970f59eb6fa41c7/.github/twitter.svg?token=ALMMP4X2OX7D67BBYJFZQWC7HBJ4I" />
   </a>
  </h1>
 </div>
@@ -27,8 +27,8 @@
 👨🏻‍🎓 Técnico em Informática pela [ETEC](https://www.facebook.com/etectaquaritinga/)  
 👨🏻‍🎓 Técnico em Informática para internet pela [ETEC](https://www.facebook.com/etectaquaritinga/)  
 ⏳ Studying Marketing Technician on [ETEC/Taquaritinga](https://www.facebook.com/etectaquaritinga/) 
-⏳ Studying Systems Analysis and Development on [FATEC/Taquaritinga](http://www.fatectq.edu.br/)
-🍿 Sou viciado em séries 
+⏳ Studying Systems Analysis and Development on [FATEC/Taquaritinga](http://www.fatectq.edu.br/)<br />
+🍿 Sou viciado em séries <br />
 👨🏼‍💻 Sempre aprendendo alguma ferramenta nova e Técnologias 
 
 -------
@@ -47,7 +47,7 @@
  </div>
 
 --------------------------
-**🕵🏼‍♂️ Estatísticas do meu Perfil**  
+**🕵🏼‍♂️ Estatísticas do meu perfil**  
 
 <br />
 
