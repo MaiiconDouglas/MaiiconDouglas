@@ -1,31 +1,54 @@
-### Hi there! 😁👋
+<div align="center">
+ <h1>
+  🦡 Hello! I'm Maicon Douglas! 
+  <img alt="Olá!" src="https://media.giphy.com/media/f5qNV3rAAooViWSWQ7/giphy.gif" width="45px">
+  <br />
+  <a  target="_blank" href="https://www.linkedin.com/in/maiconndouglas/">
+    <img alt="Linkedin" width="22px" src="https://raw.githubusercontent.com/HigorSnt/HigorSnt/1b6fab456bd620dc4ca1de9632218c54d967626d/.github/linkedin.svg" />
+  </a>&nbsp;&nbsp;&nbsp;
+  <a target="_blank" href="https://www.instagram.com/maiiconndouglasd/">
+    <img alt="Instagram" width="22px" src="https://raw.githubusercontent.com/MaiiconDouglas/MaiiconDouglas/1b6fab456bd620dc4ca1de9632218c54d967626d/.github/instagram.svg" />
+  </a>&nbsp;&nbsp;&nbsp;
+  <a target="_blank" href="mailto:maiicondouglasd@hotmail.com">
+    <img alt="Email" width="22px" src="https://raw.githubusercontent.com/MaiiconDouglas/MaiiconDouglas/1b6fab456bd620dc4ca1de9632218c54d967626d/.github/gmail.svg" />
+  </a>&nbsp;&nbsp;&nbsp;
+  <a target="_blank" href="https://www.facebook.com/MaiiconDouglasd">
+    <img alt="Facebook" width="22px" src="https://raw.githubusercontent.com/MaiiconDouglas/MaiiconDouglas/1b6fab456bd620dc4ca1de9632218c54d967626d/.github/facebook.svg" />
+  </a>&nbsp;&nbsp;&nbsp;
+  <a target="_blank" href="https://twitter.com/Maiiconndouglas">
+    <img alt="Twitter" width="22px" src="https://raw.githubusercontent.com/MaiiconDouglas/MaiiconDouglas/1b6fab456bd620dc4ca1de9632218c54d967626d/.github/twitter.svg" />
+  </a>
+ </h1>
+</div>
+  
+<img align="right" alt="Um gif para animar" src="https://media.giphy.com/media/wTrXRamYhQzsY/giphy.gif" height="140px">
 
-My name is Maicon Douglas from Brazil (🇧🇷).
+🎂 22 anos  
+👨🏻‍🎓 Técnico em Informática pela [ETEC](https://www.facebook.com/etectaquaritinga/)  
+👨🏻‍🎓 Técnico em Informática para internet pela [ETEC](https://www.facebook.com/etectaquaritinga/)  
+⏳ Studying Systems Analysis and Development on [FATEC - Taquaritinga](http://www.fatectq.edu.br/)
+🍿 Sou viciado em séries 
+👨🏼‍💻 Sempre aprendendo alguma ferramenta nova e Técnologias 
 
-I am currently front-end \ back-end and I am currently studying Systems Analysis and Development at Fatec in Taquaritinga / SP
+-------
+**🦉 Linguagens já utilizadas**  
 
-💻 I'm focused on learning: JavaScript, Node.js & React-Native, Redux, Vue.js ..
+<br />
+<div align="center">
 
-I'm studying hard to be FullStack Developer 💻
+  <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">&nbsp;&nbsp;&nbsp;
+  <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">&nbsp;&nbsp;&nbsp;
+  <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">&nbsp;&nbsp;&nbsp;
+  <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">&nbsp;&nbsp;&nbsp;
+  <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png">&nbsp;&nbsp;&nbsp;
+  <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">&nbsp;&nbsp;&nbsp;
 
-In my spare time, I like to play RPG and watch movies (🎞️) and Series (📺), Reading Books (📚), Listening to Music (🎵).
+</div>
 
-Would you like to meet me?
+--------------------------
+**🕵🏼‍♂️ Estatísticas do meu Perfil**  
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maiconndouglas/)](https://www.linkedin.com/in/maiconndouglas/)
-[![Gmail Badge](https://img.shields.io/badge/-maiicondouglasd@hotmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:maiicondouglasd@hotmail.com)](mailto:maiicondouglasd@hotmail.com)
-![GitHub followers](https://img.shields.io/github/followers/MaiiconDouglas?style=social)
+<br />
 
-<!--
-**MaiiconDouglas/MaiiconDouglas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=MaiiconDouglas&show_icons=true&theme=dark" width="400px" height="200px" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaiiconDouglas&layout=compact&theme=dark" width="400px" height="200px" />
