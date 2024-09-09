@@ -4,19 +4,19 @@
   <img alt="Olá!" src="https://media.giphy.com/media/f5qNV3rAAooViWSWQ7/giphy.gif" width="45px">
   <br /> <br>
   <a  target="_blank" href="https://www.linkedin.com/in/maiconndouglas/">
-    <img alt="Linkedin" width="25px" src="https://raw.githubusercontent.com/MaiiconDouglas/MaiiconDouglas/main/.github/linkedin.svg" />
+    <img alt="Linkedin" width="22px" src="https://raw.githubusercontent.com/MaiiconDouglas/MaiiconDouglas/4f9eaa09807f6760115bb6707970f59eb6fa41c7/.github/linkedin.svg?token=ALMMP4VY5DTHVZ2BPZZZ4N27HBJ4I" />
   </a>&nbsp;&nbsp;&nbsp;
   <a target="_blank" href="https://www.instagram.com/maiiconndouglasd/">
-    <img alt="Instagram" width="25px" src="https://raw.githubusercontent.com/MaiiconDouglas/MaiiconDouglas/main/.github/instagram.svg" />
+      <img alt="Instagram" width="22px" src="https://raw.githubusercontent.com/MaiiconDouglas/MaiiconDouglas/4f9eaa09807f6760115bb6707970f59eb6fa41c7/.github/instagram.svg?token=ALMMP4UODVJS55FKLLOV4SC7HBJ4I" />
   </a>&nbsp;&nbsp;&nbsp;
   <a target="_blank" href="mailto:maiicondouglasd@hotmail.com">
     <img alt="Email" width="25px" src="https://raw.githubusercontent.com/MaiiconDouglas/MaiiconDouglas/main/.github/gmail.svg" />
   </a>&nbsp;&nbsp;&nbsp;
   <a target="_blank" href="https://www.facebook.com/MaiiconDouglasd">
-    <img alt="Facebook" width="25px" src="https://raw.githubusercontent.com/MaiiconDouglas/MaiiconDouglas/main/.github/facebook.svg" />
+     <img alt="Facebook" width="22px" src="https://raw.githubusercontent.com/MaiiconDouglas/MaiiconDouglas/4f9eaa09807f6760115bb6707970f59eb6fa41c7/.github/facebook.svg?token=ALMMP4TB4QLAZY6NCGFHOX27HBJ4E" />
   </a>&nbsp;&nbsp;&nbsp;
-  <a target="_blank" href="https://twitter.com/Maiiconndouglas">
-    <img alt="Twitter" width="25px" src="https://raw.githubusercontent.com/MaiiconDouglas/MaiiconDouglas/main/.github/twitter.svg" />
+ <a target="_blank" href="mailto:maiicondouglasd@hotmail.com">
+    <img alt="Email" width="22px" src="https://raw.githubusercontent.com/MaiiconDouglas/MaiiconDouglas/4f9eaa09807f6760115bb6707970f59eb6fa41c7/.github/gmail.svg?token=ALMMP4SOHS4UXKMXGPR563C7HBJ4G" />
   </a>
  </h1>
 </div>
