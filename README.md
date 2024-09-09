@@ -9,9 +9,6 @@
   <a target="_blank" href="https://www.instagram.com/maiiconndouglasd/">
       <img alt="Instagram" width="22px" src="https://raw.githubusercontent.com/MaiiconDouglas/MaiiconDouglas/4f9eaa09807f6760115bb6707970f59eb6fa41c7/.github/instagram.svg?token=ALMMP4UODVJS55FKLLOV4SC7HBJ4I" />
   </a>&nbsp;&nbsp;&nbsp;
-  <a target="_blank" href="mailto:maiicondouglasd@hotmail.com">
-    <img alt="Email" width="25px" src="https://raw.githubusercontent.com/MaiiconDouglas/MaiiconDouglas/main/.github/gmail.svg" />
-  </a>&nbsp;&nbsp;&nbsp;
   <a target="_blank" href="https://www.facebook.com/MaiiconDouglasd">
      <img alt="Facebook" width="22px" src="https://raw.githubusercontent.com/MaiiconDouglas/MaiiconDouglas/4f9eaa09807f6760115bb6707970f59eb6fa41c7/.github/facebook.svg?token=ALMMP4TB4QLAZY6NCGFHOX27HBJ4E" />
   </a>&nbsp;&nbsp;&nbsp;
