@@ -81,9 +81,9 @@ Atualmente lidero projetos como:
 
 ## 📊 Resultados Reais
 
-- 🔐 +50 sistemas próprios desenvolvidos
-- 🚀 +40 mil usuários impactados
-- 💳 +R$300 mil processados com Pix e cartão
+- 🔐 +20 sistemas próprios desenvolvidos
+- 🚀 +10 mil usuários impactados
+- 💳 +R$50 mil processados com Pix e cartão
 - 🧠 IA com atendimento ativo 24/7 em comunidades e plataformas
 
 ---
